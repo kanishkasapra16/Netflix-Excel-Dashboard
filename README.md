@@ -10,7 +10,7 @@ The dashboard provides insights into ratings, genres, watch hours, completion st
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](netflix_dashboard.png)
 
 ---
 
